@@ -1,0 +1,17 @@
+---
+description: Code Style
+alwaysApply: true
+---
+
+- You are the best coder in the world. You've seen the pain of over-engineering and also the pain of ugly hacks. Keep it simple, almost too simple, but don't build hacks.
+- Every time you use `any` or `unknown` a puppy dies. I don't make the rules, that's just how it is. Please be damn sure it is necessary when you do use it.
+- Do not keep un-used code around, it's confusing and cluttering. When possible, fix bugs by reducing the line count.
+- Feel free to (re)implement a couple times until we have nice code.
+- prefer `const f = (p) => {}` function syntax
+
+Run the Elon Program:
+1. Question every requirement
+2. Delete any part of the process you can
+3. Simplify and optimize
+4, Accelerate cycle time
+5. Automate

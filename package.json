@@ -4,9 +4,15 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/yargs": "^17.0.33"
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@openrouter/ai-sdk-provider": "^1.2.0",
+    "ai": "^5.0.57",
+    "yargs": "^18.0.0"
   }
 }
